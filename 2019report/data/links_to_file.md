@@ -4,15 +4,15 @@
 ## Canada-Toronto:
    * city population: OECD
    * population density: OECD
-   * mean household income: https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/inc-rev/Table.cfm?Lang=Eng&T=102&PR=0&D1=1&RPP=25&SR=1&S=108&O=D
+   * mean household income: OECD
 ## United Kingdom-London(Region):
    * city population: OECD
    * population density: OECD
-   * mean household income:     https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/adhocs/11323medianhouseholdincomebyregionfinancialyearending2018
+   * mean household income: OECD
 ## France-Paris:
    * city population: OECD
    * population density: OECD
-   * mean household income: https://www.insee.fr/fr/statistiques/1405599?geo=DEP-75+AU2010-001
+   * mean household income: OECD
 ## Ireland-Dublin:
    * city population: OECD
    * population density: OECD
