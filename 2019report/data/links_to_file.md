@@ -63,3 +63,4 @@ https://www.bfs.admin.ch/bfs/en/home/statistics/economic-social-situation-popula
    * city population: https://www.bycensus2016.gov.hk/en/bc-mt.html#footnote999991
    * population density: https://www.bycensus2016.gov.hk/en/bc-mt.html#footnote999991
    * mean household income: https://www.censtatd.gov.hk/hkstat/sub/sp459.jsp?productCode=B1120096
+  (HK_avg_income Table 3.3)
