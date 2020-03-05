@@ -26,12 +26,12 @@
    * population density: OECD
    * medium household income: 
 ## Switzerland-Zurich:
-   * city population: 
+   * city population: OECD
    * population density: OECD
    * medium household income: 
 ## Netherlands-Amsterdam:
    * city population: OECD
-   * population density: 
+   * population density: OECD
    * medium household income: 
 ## Romania-Bucharest:
    * city population: 
